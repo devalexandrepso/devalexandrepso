@@ -42,4 +42,4 @@
 
 
 
-![Snake animation](https://github.com/devalexandrepso/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
