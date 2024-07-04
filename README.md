@@ -11,7 +11,7 @@
 
 ## Hello, Devs!!
 
-#### *Tenho 33 anos, moro no Rio de Janeiro/Rj e sou apaixonado por programação e séries! criador oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!* :v:
+#### *Tenho 35 anos, moro no Rio de Janeiro/Rj e sou apaixonado por programação e séries! criador oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!* :v:
 
 ![dig](https://user-images.githubusercontent.com/95868877/235471562-bccd0a6f-7d04-49d4-a493-e4ddad13ace9.gif)
 
