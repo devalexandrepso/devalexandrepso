@@ -13,7 +13,7 @@
 
 #### *Tenho 35 anos, moro no Rio de Janeiro/Rj e sou apaixonado por programação e séries! criador oficial de bugs, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!* :v:
 
-![dig](https://github.com/devalexandrepso)
+<img src="/assets/img/arquivo.gif">
 
 
 
